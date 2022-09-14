@@ -5,6 +5,7 @@ function Users() {
     <>
      <div>Users 1 </div>
      <div>Users 2</div>
+     <div>Users 2</div>
     </>
   )
 }
