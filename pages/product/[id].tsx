@@ -8,6 +8,7 @@ function Id() {
    return (
       <>
          <div>Id</div>
+         <div>Id</div>
          <div>{query.id}</div>
       </>
    );
