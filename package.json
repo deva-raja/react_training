@@ -7,7 +7,8 @@
       "build": "next build",
       "start": "next start",
       "lint": "next lint",
-      "d": "explorer http://localhost:3000 & next dev"
+      "d": "explorer http://localhost:3000 & next dev",
+      "s": "explorer http://localhost:3000 & next dev"
    },
    "dependencies": {
       "next": "12.3.0",
